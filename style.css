@@ -57,6 +57,7 @@ section {
 
 .card {
     width: 175px;
+    cursor:pointer
     font-size: 12px;
     flex: 0 0 auto;         /* ADD */
     display: flex;          /* ADD */
